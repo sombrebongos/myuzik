@@ -1,6 +1,6 @@
 # 🎶 Myuzik
 
-<img src="https://raw.githubusercontent.com/sombrebongos/myuzik/refs/heads/main/img/Screenshot_20250824-161038.jpg" height="300" width="300">
+<img src="https://raw.githubusercontent.com/sombrebongos/myuzik/refs/heads/main/img/Screenshot_20250824-161038.jpg">
 
 **Myuzik** is a simple CLI tool to search for album information and song lyrics. It uses the **iTunes API** to fetch album and track details, and the **Genius API** to fetch song lyrics.  
 
